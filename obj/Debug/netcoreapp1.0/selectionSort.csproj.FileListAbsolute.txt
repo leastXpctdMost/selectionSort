@@ -1,0 +1,9 @@
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/bin/Debug/netcoreapp1.0/selectionSort.deps.json
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/bin/Debug/netcoreapp1.0/selectionSort.runtimeconfig.json
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/bin/Debug/netcoreapp1.0/selectionSort.runtimeconfig.dev.json
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/bin/Debug/netcoreapp1.0/selectionSort.dll
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/bin/Debug/netcoreapp1.0/selectionSort.pdb
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/obj/Debug/netcoreapp1.0/selectionSort.csprojResolveAssemblyReference.cache
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/obj/Debug/netcoreapp1.0/selectionSort.AssemblyInfo.cs
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/obj/Debug/netcoreapp1.0/selectionSort.dll
+/Users/pf/Documents/C_Sharp_Practice/selectionSort/obj/Debug/netcoreapp1.0/selectionSort.pdb
