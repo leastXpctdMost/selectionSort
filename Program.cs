@@ -9,7 +9,7 @@ public class Program
     public static void Main()
     {
         // var arrayToSort = new int[] { 5, 2, 3, 1, 4, 6, 8, 7, 12, 10, 9, 11, -1, -2, 13 };
-        Console.WriteLine("How many elements in the array?");
+        Console.WriteLine(Environment.NewLine + "How many elements in the array?");
         int inputAnswer = int.Parse(Console.ReadLine());
         randomArray = CreateArray(inputAnswer);
         originalLengthOfArrayToSort = randomArray.Length;
